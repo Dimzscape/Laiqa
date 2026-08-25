@@ -11,4 +11,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Dimzscape/Laiqa/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Dimzscape/Laiqa/tree/main/0088-merge-sorted-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Dimzscape/Laiqa/tree/main/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Dimzscape/Laiqa/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
