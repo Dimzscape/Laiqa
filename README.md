@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Dimzscape/Laiqa/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Dimzscape/Laiqa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Dimzscape/Laiqa/tree/main/0088-merge-sorted-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Dimzscape/Laiqa/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Dimzscape/Laiqa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
