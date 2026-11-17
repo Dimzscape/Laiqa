@@ -38,4 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Dimzscape/Laiqa/tree/main/0217-contains-duplicate/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Dimzscape/Laiqa/tree/main/0029-divide-two-integers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Dimzscape/Laiqa/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
