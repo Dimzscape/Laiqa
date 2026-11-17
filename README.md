@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dimzscape/Laiqa/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Dimzscape/Laiqa/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Dimzscape/Laiqa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dimzscape/Laiqa/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Dimzscape/Laiqa/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dimzscape/Laiqa/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0217-contains-duplicate](https://github.com/Dimzscape/Laiqa/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
